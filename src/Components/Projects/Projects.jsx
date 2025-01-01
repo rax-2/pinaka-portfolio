@@ -5,7 +5,7 @@ import RepoCard from '../ReoCard/RepoCard';
 
 export default function Projects() {
   const { repos2DArray, error } = GetRepo();
-  console.log(repos2DArray);
+  // console.log(repos2DArray);
   
   return (
     <div className="PrjBody p-2 ">
