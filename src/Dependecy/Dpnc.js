@@ -18,7 +18,7 @@ const SkillsList = [
 
 const DisPlayProjects = [
     ['Portfolio Website', 'Created a personal portfolio website to showcase my projects, leveraging React for dynamic content and Tailwind for responsive, modern design. Integrated the GitHub API to automatically display my GitHub repositories, providing an interactive and up-to-date view of my work. Developed under my nickname as a project to highlight my skills in web development and to provide a centralized location for potential employers or collaborators to explore my work.',
-         'https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwijxeWBlsuKAxWvk1YBHWODBU4QPAgI', 'r'],
+         'https://trishul-a.github.io/portfolio/', 'r'],
     ['GuruKul', 'Gurukul is an educational website designed to make learning easy and accessible for everyone. It offers well-organized study materials and insightful content across various categories, making it a go-to resource for students and curious minds.', 'https://yyaiem.github.io/gurukul/', 'l'],
     ['YantraYodha Club Official website', 'The YantraYodha Club Official Website is a dynamic web application built as part of a college project. The website serves as the official platform for the YantraYodha Club, providing an engaging space for club members to stay updated and connected. It features a registration form for event sign-ups, a notification panel for real-time updates, and displays upcoming and past events through API integration.', 'https://yyaiem.github.io/yy/', 'r'],
 ]
